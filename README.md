@@ -16,7 +16,7 @@ npm install
 npm start
 ```
 
-### BE
+### Server
 1. install dependencies
 ```shell
 cd .\BE\
