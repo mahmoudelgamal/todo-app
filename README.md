@@ -15,7 +15,7 @@ npm install
 ```shell
 npm start
 ```
-
+will be open in port 8080 [http://localhost:8080](http://localhost:8080)
 ### Server
 1. install dependencies
 ```shell
@@ -27,3 +27,4 @@ npm install
 ```shell
 npm start
 ```
+will be use in port 3000
