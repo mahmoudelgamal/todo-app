@@ -7,7 +7,7 @@ export type Todo = {
   done: boolean
 }
 
-const backendUrl = 'http://localhost:8080'
+const backendUrl = 'http://localhost:3000'
 
 function useTodo() {
   const [todos, setTodos] = useState<Todo[]>([])
